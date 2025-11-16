@@ -1,0 +1,16 @@
+Day 0: Setting Up My 100 Days of Learning Journey 
+
+GOAL:
+To learn something new every day — starting with Dart (for app development)
+and gradually improving both tech and soft skills.
+
+SETUP:
+Installed Visual Studio Code
+Installed Git
+Installed Dart SDK
+Created a GitHub repo for tracking daily progress
+Planned folder structure: Day01, Day02, etc.
+Confirmed workflow using Git commits
+
+Thoughts:
+I'm starting small and consistent. Even if I learn just one concept or write a few lines of code each day, I’ll document it here. Progress over perfection!
